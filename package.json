@@ -1,0 +1,17 @@
+{
+  "name": "api-basejump-timestamp-microservice",
+  "version": "1.0.0",
+  "description": "An example of making a Node.js API server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.4",
+    "moment": "^2.11.2",
+    "sugar": "^1.4.1"
+  }
+}
